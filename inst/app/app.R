@@ -1,0 +1,1 @@
+shiny::shinyApp(bluebox:::app_ui(), bluebox:::app_server)
