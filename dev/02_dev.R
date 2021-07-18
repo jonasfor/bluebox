@@ -61,6 +61,7 @@ covrpage::covrpage()
 ## (You'll need GitHub there)
 usethis::use_github()
 
+
 # GitHub Actions
 usethis::use_github_action() 
 # Chose one of the three
